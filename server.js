@@ -1,3 +1,6 @@
+const lib = require('hlyras-lib');
+return console.log(lib);
+
 const express = require('express');
 const session = require('express-session');
 const connect = require('connect');
